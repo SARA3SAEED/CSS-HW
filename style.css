@@ -1,0 +1,67 @@
+.header{
+    background-color: aquamarine;
+    margin: 0;
+    width: 100%;
+    height: 550px;
+    padding: 0px;
+    }
+
+    .header .img1 img {
+        width: 100%;
+        margin: 0;
+        padding: 0px;
+        height: 550px;
+        border-style: outset;
+        border-color: black;
+        border-width: 5px;
+    }
+
+    .header .img1 pre{
+        position: relative;
+        bottom: 300px;
+        left: 450px;
+        color: azure;
+        font-size: xx-large;
+
+    }
+
+    .header .img2{
+      
+        position: relative;
+        bottom:   300px;
+        left: 400px;
+    }
+
+    p {
+        width: 70%;
+        position: absolute;
+        bottom: -400px;
+        left: 200px;
+        font-size: xx-large;
+    }
+
+    .img3{
+
+        position: relative;
+        top:   450px;
+        left: 400px; 
+        font-size: x-large; 
+    }
+
+    .img4{
+        position: relative;
+        top:   450px;
+        left: 400px; 
+        font-size: x-large; 
+    }
+
+    h4{
+        position: relative;
+        right: 250px;   
+    }
+    pre{
+        max-width: 100%;
+        font-size: x-large;
+        position: relative;
+        right: 250px;
+    }
